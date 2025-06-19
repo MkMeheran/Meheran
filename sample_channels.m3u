@@ -10,3 +10,98 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/1705.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
+
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV
+
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
+
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/1705.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
+
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703.m3u8
+
+
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
+
+http://38.96.178.201/live/JamunaTV/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",ATN NEWS [BD]
+
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
+
+http://38.96.178.201/live/ATNBangla/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",NTV
+
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",Banglavision
+
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto TV
+
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
+
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News
+
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
